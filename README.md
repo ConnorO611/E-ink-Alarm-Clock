@@ -2,6 +2,6 @@
 
 # Mockup Picture
 
-![Clock Mockup](Mockup1.png)
+![Clock Mockup](Images/Mockup1.png)
 
 
